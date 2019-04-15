@@ -1,0 +1,1 @@
+# dnf-character-manager
