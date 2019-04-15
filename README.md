@@ -1,1 +1,3 @@
-# dnf-character-manager
+# DNF 角色信息管理
+##满足你对所有DNF角色的信息离线操作.
+version 0.0.1
